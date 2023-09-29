@@ -1,0 +1,29 @@
+.Input_container{
+    margin-top: 1.5rem;
+   
+}
+
+
+
+.Input_container>input{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    border: none;
+    background-color: #fff;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    border-radius: 8px;
+  
+  
+}
+
+
+
+.Input_container>label{
+    font-size: 2em;
+    color: #000;
+    flex-direction: column;
+    font-weight: bold;
+
+}

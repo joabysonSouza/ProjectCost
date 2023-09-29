@@ -1,0 +1,19 @@
+.select>select{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    border: none;
+    background-color: #fff;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+} 
+ 
+ 
+ 
+ .select>label{
+    font-size: 2em;
+    color: #000;
+    flex-direction: column;
+    font-weight: bold;
+
+ }
